@@ -1,0 +1,280 @@
+body{
+    background-image: url(Clouds1.jpg);
+    background-size: cover;
+}
+.jumbotron{
+    text-align: left;
+}
+.ttle{
+    color: #985f0d;
+    font-family: "Adobe Garamond Pro Bold";
+    font-style: oblique;
+    margin-top: 3%;
+}
+.vision{
+    text-align: justify;
+    margin-bottom: 10%;
+    margin-top: 3%;
+    color: #4cae4c;
+    background-color: #204d74;
+    border-radius: 15px 0px 15px 0px;
+    padding: 5%;
+}
+
+.hv{
+    font-family: "Adobe Caslon Pro Bold";
+    color:darkgreen;
+    margin-top: 8%;
+}
+
+.navbar-header{
+    background-color: mediumpurple;
+}
+
+.profPara{
+    text-align: justify;
+    margin: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: black;
+    font-size: larger;
+    font-family: Centaur;
+
+}
+
+#downContact{
+    text-align: center;
+    background-color: #122b40;
+    color: white;
+    padding: 5%;
+    font-family: Centaur;
+    border-radius: 10%;
+}
+
+.compProfileHd{
+    text-align: center;
+    color: #c7254e;
+
+}
+
+.hotNum{
+    color: #c7254e;
+    font-size: larger;
+}
+
+#ourClient{
+    background-color: #4cae4c;
+    border-left: 40px solid grey;
+    border-bottom: 10px solid black;
+    border-bottom-left-radius: 85px;
+    border-right: 40px solid grey;
+    border-bottom-right-radius: 85px;
+}
+
+#brands
+{
+    border-radius: 105px;
+}
+
+.profParaMission{
+    margin-top: 2%;
+    text-align: justify;
+    font-size: medium;
+    font-family: "Adobe Caslon Pro Bold";
+    color: purple;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.values{
+    color: darkblue;
+    margin-left: 25%;
+    font-family: "Adobe Garamond Pro Bold";
+    font-size: larger;
+}
+
+.coreValHd{
+    text-align: center;
+    color: #c7254e;
+    margin-top: 5%;
+}
+
+.profLocation{
+    text-align: center;
+    color: orangered;
+}
+
+#otherId{
+    border-radius: 50%;
+    background-image: url("pic54.jpg");
+}
+
+.othersP{
+    text-align: center;
+    margin: 18%;
+    font-size: 28px;
+    color: orangered;
+}
+
+.jumboHd{
+    color: forestgreen;
+    text-align: center;
+    font-family: "Adobe Caslon Pro Bold";
+    margin: 5%;
+}
+.paraDCC{
+    text-align: justify;
+    color: darkgreen;
+    font-family: Centaur;
+    font-size: large;
+
+}
+ul.ulOnly{
+    color: #8a6d3b;
+}
+
+.coreProductsHd{
+    color: brown;
+    text-align: center;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: medium;
+}
+
+#proList{
+    background-color: lawngreen;
+}
+
+.table {
+    color: purple;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+}
+
+#divVID{
+    background-color: #a6e1ec;
+}
+
+.operationHrs{
+    text-align: center;
+    color: rebeccapurple;
+    padding: 2%;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+}
+
+.paraCoreBus{
+    color: brown;
+    text-align: center;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;}
+
+#nested{
+    background-color: #5cb85c;
+    border-radius: 15%;
+    padding: 10%;
+}
+
+.personnelHd{
+    color: forestgreen;
+    text-align: center;
+    font-family: "Adobe Caslon Pro Bold";
+    margin: 5%;
+}
+
+.table{
+    color: purple;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+}
+
+.personnelHd2{
+    color: white;
+    text-align: center;
+    font-family: "Adobe Caslon Pro Bold";
+    padding-top: 3%;
+}
+.paraMT{
+    color: #262626;
+    text-align: center;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: x-large;
+    padding: 5%;
+
+}
+
+#Bg{
+    background-color: darkorange;
+}
+
+ul.nav li:hover > ul.dropdown-menu {
+    display: block;
+    background-color: cyan;
+    border-radius: 10px;
+    opacity: .9;
+}
+
+.portPara{
+    text-align: center;
+    color: #3c3c3c;
+    background-color: #985f0d;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+    padding: 10%;
+}
+
+
+.paraMaintenance{
+    color: brown;
+    text-align: justify;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.paraMaintenance1{
+    color: darkgreen;
+    text-align: justify;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+    padding: 5%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#ContactUs{
+    background-color: greenyellow;
+
+}
+.contPara{
+    padding: 10%;
+    text-align: center;
+}
+#ContactUs1{
+    background-color: greenyellow;
+ }
+
+.paraContact1{
+    color: brown;
+    text-align: center;
+    padding: 2%;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: 20px;
+}
+
+.cont{
+    margin: 4%;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: 25px;
+}
+.contH{
+    color: purple;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: 20px;
+}
+.socialIconPara{
+    text-align: center;
+}
